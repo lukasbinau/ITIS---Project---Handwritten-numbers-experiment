@@ -9,12 +9,10 @@ __pycache__/
 data/
 Different_test_data/
 
-# Model weights
-*.pth
-
 # Streamlit cache
 .streamlit/
 
 # OS files
 .DS_Store
 Thumbs.db
+
